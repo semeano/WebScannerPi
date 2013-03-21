@@ -5,8 +5,8 @@ Use an old scanner with your Raspberry Pi and send the scan to your email.
 
 
 
-Instalation
-===========
+Instructions
+============
 
 First of all, make sure that your scanner works with sane. Then, check if you have all these required components installed and configured on your Raspberry Pi:
 
