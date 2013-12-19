@@ -57,6 +57,6 @@ This is needed because when you call the script from a webpage (through a shell_
 
 
 
-And that's it! If everything is ok (which normally, on the first try, isn't) all you need to do is go to http://<i>your_raspberrypi_ip_address</i>/webscannerpi to test it out!
+And that's it! Just go to http://<i>your_raspberrypi_ip_address</i>/webscannerpi and test it out.
 
 
